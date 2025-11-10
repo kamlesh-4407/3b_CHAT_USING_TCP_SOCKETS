@@ -33,7 +33,7 @@ while True:
 ```
 ## OUPUT
 
-<img width="1920" height="1080" alt="495001892-acfea9ba-ed19-4e88-a089-8887559a6a6a" src="https://github.com/user-attachments/assets/d4422b43-6ea2-4cc8-92f6-ed0328da4728" />
+<img width="963" height="258" alt="image" src="https://github.com/user-attachments/assets/3d02cc82-6511-46c3-b7c3-b62d76dd2336" />
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
